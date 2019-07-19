@@ -1,0 +1,1 @@
+# docs.ruby-lang.org looks reasonably clean and complete

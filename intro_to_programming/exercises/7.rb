@@ -1,0 +1,1 @@
+# The major difference is that a Hash ueses key/value pairs
